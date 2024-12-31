@@ -1,0 +1,2 @@
+# rust-code
+Study rust
